@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ### To contact me: 
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:dionerweiss@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:dionerweiss@gmail.com" /></a>
-
-  <a href="htpps://linkedin.com/in/dioner-weiss" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+  
+  <a href="https://linkedin.com/in/dioner-weiss" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dioner-weiss" /></a>
 </p>  
