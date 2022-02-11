@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  I'm Full-stack developer, always learning new technologies, methodologies and concepts to implements the best practices in my codes. I currently work with Node.js, MongoDB and React.js, but also have experience with Python, PHP, SQL Server, PostgresSQL and more.
+  I'm Full-stack developer, always learning new technologies, methodologies and concepts to implements the best practices in my codes. I currently work with Node.js, MongoDB and React.js, but I also have experience with Python, PHP, SQL Server, PostgresSQL and more.
 </p>
 
 ## 🚀 My Skills
